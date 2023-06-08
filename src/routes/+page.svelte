@@ -17,9 +17,12 @@
     </p>
     <div class="line" style="width:80%;" />
     <h2>Tools for people (or robots if you tried hard enough)</h2>
+
     <LinkButton icon="/icons/coding.png" url="https://clamp-coding.vercel.app/">
         Clamp Coding
     </LinkButton>
+    <p>nah bruh fr only one tol?</p>
+
     <div class="line" style="width:80%;" />
     <div style="margin-top: 16px;" />
     <a href="https://github.com/ClampProject" target="_blank">
