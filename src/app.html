@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+		<meta name="viewport" content="width=device-width" />
+		<style>
+			*:not(code) {
+				font-family: "Comic Sans MS", Arial, Helvetica, sans-serif;
+			}
+
+			a {
+				color: dodgerblue;
+			}
+			body {
+				background: #222;
+				margin-block-start: 0px;
+				margin-block-end: 0px;
+				color: white;
+			}
+			:fullscreen {
+				background: #222;
+			}
+		</style>
+		%sveltekit.head%
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>
